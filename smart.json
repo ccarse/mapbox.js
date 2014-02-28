@@ -1,0 +1,9 @@
+{
+  "name": "mapbox",
+  "description": "Mapbox.js",
+  "homepage": "http://mapbox.com/mapbox.js/",
+  "author": "Mapbox",
+  "version": "1.5.2",
+  "git": "https://github.com/mapbox/mapbox.js.git",
+  "packages": {}
+}
